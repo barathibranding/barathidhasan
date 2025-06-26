@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "name": "Social Media Analytics",
-      "description": "Dashboard for tracking social media metrics and engagement across multiple platforms with customizable reporting.",
-      "image": "/projects/project-5.jpg",
-      "link": "https://example.com/social-analytics",
-      "technologies": ["Next.js", "MongoDB", "D3.js", "OAuth"]
+      "name": "Sathaya Travels",
+      "description": " A Next.js project for a car and bus rental service. Developed a high performance web application with seamless navigation.",
+      "image": "/projects/sathaya.jpeg",
+      "link": "https://www.sathayatravels.com/",
+      "technologies": ["Next.js","Tailwind CSS", "Python django" ]
     },
     {
       "id": 6,
