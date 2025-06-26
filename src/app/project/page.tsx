@@ -82,14 +82,7 @@ const Page = () => {
               </div>
             ))}
           </div>
-          <div className="text-center mt-12">
-            <a
-              href="/projects"
-              className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
-            >
-              View All Projects
-            </a>
-          </div>
+         
         </div>
       </section>
     </div>
