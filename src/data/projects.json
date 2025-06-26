@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Saaskin",
+      "description": "A Next.js project for a medical machines sales company Website Contributed to frontend development, ensuring a user-friendly and responsive design.",
+      "image": "/projects/saas.webp",
+      "link": "https://saaskin.com/",
+      "technologies": ["Next.js", "Tailwind CSS", "python django"]
+    },
+    {
+      "id": 2,
+      "name": "Posh Learn Module",
+      "description": "React.js project — Completed development of an interactive and efficient learning management system module, focusing on user friendly UI and smooth performance.",
+      "image": "/projects/posh.jpeg",
+      "link": "https://lms.poshdesk.in/",
+      "technologies": ["React", "Tailwind CSS", "python django"]
+    },
+    {
+      "id": 3,
+      "name": "Ardor Biomed",
+      "description": "An e-commerce project specializing in selling coconut-related medical products. Developed a responsive, user-friendly online store with features like product listings, shopping cart, and secure checkout.",
+      "image": "/projects/ardorbiomed.webp",
+      "link": "https://ardorbiomed.com/",
+      "technologies": ["React", "CSS", "python django"]
+    },
+    {
+      "id": 4,
+      "name": "Vogelkop Architects",
+      "description": "Website for an architectural firm showcasing their portfolio and services. Focused on creating a clean, modern, and responsive design.",
+      "image": "/projects/vogel.webp",
+      "link": "https://vogelkoparchitects.com/",
+      "technologies": ["React", "python django", "Chart.js"]
+    },
+    {
+      "id": 5,
+      "name": "Social Media Analytics",
+      "description": "Dashboard for tracking social media metrics and engagement across multiple platforms with customizable reporting.",
+      "image": "/projects/project-5.jpg",
+      "link": "https://example.com/social-analytics",
+      "technologies": ["Next.js", "MongoDB", "D3.js", "OAuth"]
+    },
+    {
+      "id": 6,
+      "name": "Fitness Tracker",
+      "description": "Mobile-friendly application for tracking workouts, nutrition, and progress with data visualization and goal setting.",
+      "image": "/projects/project-6.jpg",
+      "link": "https://example.com/fitness",
+      "technologies": ["React Native", "Firebase", "Redux", "HealthKit API"]
+    }
+  ]
+}
