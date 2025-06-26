@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Brandingworld website",
       "description": "Developed Branding World website using Next.js, showcasing web app development and digital marketing services with responsive design and SEO optimization.",
-      "image": "/projects/project-6.webp",
+      "image": "/projects/project-6.jpg",
       "link": "https://brandingworld.net/",
       "technologies": ["Next.js","Tailwind CSS", "Python django" ]
     }
